@@ -24,5 +24,5 @@ sql = formattor(sql, options);
 //WHERE id=2
 </pre>
 
-### options
+## options
   * method `sql`, `xml`, `json`, `css`

@@ -1,6 +1,6 @@
 {
   "name": "formattor",
-  "version": "0.1",
+  "version": "0.0.1",
   "description": "node npm formatter pretty-print css, xml, sql, json",
   "homepage": "https://github.com/stonephp/formattor",
   "author": {
