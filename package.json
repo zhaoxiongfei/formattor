@@ -1,0 +1,38 @@
+{
+  "name": "formattor",
+  "version": "0.1",
+  "description": "node npm formatter pretty-print css, xml, sql, json",
+  "homepage": "https://github.com/stonephp/formattor",
+  "author": {
+    "name": "Redstone Zhao",
+    "email": "269718799@qq.com",
+    "url": "http://stonephp.com/"
+  },
+  "contributors": [
+  ],
+  "keywords": [
+    "pretty",
+    "sql",
+    "format",
+    "printf",
+    "xml",
+    "json",
+    "css"
+  ],
+  "main": "./index.js",
+  "engines": {
+    "node": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stonephp/formattor"
+  },
+  "bugs": {
+    "url": "https://github.com/stonephp/formattor/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ]
+}
