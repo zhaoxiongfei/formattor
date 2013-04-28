@@ -5,7 +5,7 @@ node npm formatter pretty-print css, xml, sql, json
 
 
 Based on jQuery-format by Zach Shelton
-http://zachofalltrades.net
+https://github.com/zachofalltrades/jquery.format
 
 Dual licensed under the MIT and GPL licenses:
   http://www.opensource.org/licenses/mit-license.php
