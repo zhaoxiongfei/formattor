@@ -2,7 +2,7 @@
 * format - npm module plugin to pretty-print or minify text in XML, JSON, CSS and SQL formats.
 * https://github.com/stonephp/formattor
 *
-* Version - 0.1
+* Version - 0.0.2
 * Copyright (c) 2013 Redstone Zhao
 * https://github.com/stonephp/formattor
 *
